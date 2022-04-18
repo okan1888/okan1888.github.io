@@ -42,7 +42,7 @@
         <h2>Software Projects</h2>
         <div class="row">
             <div class="col-4 placard project">
-                <img class="center" style="width: 100%;border-radius: 1rem;" src="./img/bigtext.jpg" alt="">
+                <img class="center" style="width: 100%;border-radius: 1rem;" src="./bigtext.jpg" alt="">
                 <h3 class="center">Large Text Read</h3>
                 <a class="center" href="https://github.com/okan1888/exhibitA" style="text-decoration: none">
                     <div class="clicker">
@@ -51,7 +51,7 @@
                 </a>
             </div>
             <div class="col-4 placard project">
-                <img class="center" style="width: 100%;border-radius: 1rem" src="./img/graph.gif" alt="">
+                <img class="center" style="width: 100%;border-radius: 1rem" src="./graph.gif" alt="">
                 <h3 class="center">Graph Motor</h3>
                 <a class="center" href="https://github.com/okan1888/GMotor" target="_blank" style="text-decoration: none">
                     <div class="clicker">
@@ -60,7 +60,7 @@
                 </a>
             </div>
             <div class="col-4 placard project">
-                <img class="center" style="width: 100%;border-radius: 1rem" src="./img/philo.jpg" alt="">
+                <img class="center" style="width: 100%;border-radius: 1rem" src="./philo.jpg" alt="">
                 <h3 class="center">Papers</h3>
                 <a class="center" href="https://github.com/okan1888/Papers" target="_blank" style="text-decoration: none">
                     <div class="clicker">
