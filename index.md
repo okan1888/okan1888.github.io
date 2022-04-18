@@ -1,37 +1,100 @@
-## Welcome to Okan Karadag's code space
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/okan1888/okan1888.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" href="logo.png">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <script src="js/mobile.js"></script>
+    <title>Okan Karadag</title>
+</head>
+<body>
+  <div class="col-12" style="padding:unset">
+    <div class="navbar" id="navbar1" >
+        <a href="javascript:void(0);" class="mobileMenu">Menu</a>
+        <a href="">Home</a>
+        <a href="javascript:void(0);" class="icon" onclick="menu()"><i class="fas fa-bars"></i></a>
+    </div>
+  </div>
+    <div class="col-12">
+        <div class="center" id="name">Okan Karadag</div>
+        <hr class="style-two"/>
+    </div>
+    <div class="col-4 text">
+         <div class="contact-icon"><a href="https://github.com/okan1888" target="_blank" style="text-decoration: none">
+            <i class="fab fa-github-alt fa-1x"></i> GitHub
+        </a></div>
+        <div class="contact-icon"><a href="https://www.linkedin.com/in/okan-karadag" target="_blank" style="text-decoration: none">
+            <i class="fab fa-linkedin fa-1x"></i> LinkedIn
+        </a></div>
+    </div>
+    <div class="col-8 blurb">
+        <div style="margin-bottom: 1rem">
+            &iexcl;Hello! I am Okan,  an electronics engineer interested in Math and Philosophy. I graduated from Istanbul Technical University with a bachelors in Electronics and Telecommunication Engineering in 1999. 
+        </div>
+        <div>
+            Check out some of my projects below!
+        </div>
+    </div>
+    <div class="col-12" style="padding-left: 5%;padding-right: 5%">
+        <h2>Software Projects</h2>
+        <div class="row">
+            <div class="col-4 placard project">
+                <img class="center" style="width: 100%;border-radius: 1rem;" src="./img/bigtext.jpg" alt="">
+                <h3 class="center">Large Text Read</h3>
+                <a class="center" href="https://github.com/okan1888/exhibitA" style="text-decoration: none">
+                    <div class="clicker">
+                        View Code
+                    </div>
+                </a>
+            </div>
+            <div class="col-4 placard project">
+                <img class="center" style="width: 100%;border-radius: 1rem" src="./img/graph.gif" alt="">
+                <h3 class="center">Graph Motor</h3>
+                <a class="center" href="https://github.com/okan1888/GMotor" target="_blank" style="text-decoration: none">
+                    <div class="clicker">
+                        View Code
+                    </div>
+                </a>
+            </div>
+            <div class="col-4 placard project">
+                <img class="center" style="width: 100%;border-radius: 1rem" src="./img/philo.jpg" alt="">
+                <h3 class="center">Papers</h3>
+                <a class="center" href="https://github.com/okan1888/Papers" target="_blank" style="text-decoration: none">
+                    <div class="clicker">
+                        View Papers
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="footer col-12" style="padding:unset;">
+        <div class="col-12" style="padding-top: 1.5%; padding-bottom: 3%">
+            <div class="col-6">
+                <h2>Profiles</h2>
+                <div style="padding-left: 1%;user-select: none; font-size: 1.15rem; -moz-user-select: none">
+                    <a href="https://github.com/okan1888" target="_blank" style="text-decoration: none">
+                        <i class="fab fa-github fa-3x icodk"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/okan-karadag" target="_blank" style="text-decoration: none">
+                        <i class="fab fa-linkedin-in fa-3x icodk" style="margin-left: 10px"></i>
+                    </a>
+                </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+            </div>
+            <div class="col-6">
+                
+            </div>
+        </div>
+    </div>    
+    
+    <div class="col-12" >
+        <div class="center" >&copy; Okan Karadag, 2020-2022. All Rights Reserved</div>
+    </div>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/okan1888/okan1888.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
