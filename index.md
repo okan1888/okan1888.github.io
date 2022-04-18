@@ -91,7 +91,7 @@
     </div>    
     
     <div class="col-12" >
-        <div class="center" >&copy; Okan Karadag, 2020-2022. All Rights Reserved</div>
+        <div class="center" >&copy; Okan Karadag, 2007-2022. All Rights Reserved</div>
     </div>
 
 </body>
