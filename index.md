@@ -32,7 +32,7 @@
     </div>
     <div class="col-8 blurb">
         <div style="margin-bottom: 1rem">
-            Hello! I am Okan,  an electronics engineer interested in Math and Philosophy. I graduated from Istanbul Technical University with a bachelors in Electronics and Telecommunication Engineering in 1999. 
+            Hello! I am Okan,  an electronics engineer, implementing Network Programming and Datacenter automation projects. I graduated from Istanbul Technical University with a bachelors in Electronics and Telecommunication Engineering in 1999. besides, interested in Philosophy and Qigong.
         </div>
         <div>
             Check out some of my projects below!
